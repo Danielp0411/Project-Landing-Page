@@ -55,6 +55,7 @@ h1 {
   font-size: 18px;
   width: 120px;
   border-color: #3882f6;
+  border-style: solid;
 }
 
 .acton-signup {
